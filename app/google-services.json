@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1097794614873",
+    "firebase_url": "https://bloodlocator-1513c.firebaseio.com",
+    "project_id": "bloodlocator-1513c",
+    "storage_bucket": "bloodlocator-1513c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097794614873:android:c3f7face85ae3507",
+        "android_client_info": {
+          "package_name": "com.example.asus.bloodlocator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097794614873-u67ulv14debt0memqo0qhguc121vhfo4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asus.bloodlocator",
+            "certificate_hash": "57f0f026fb846263f254200d467cdc42f7539dbf"
+          }
+        },
+        {
+          "client_id": "1097794614873-gqo9s0frsr6pelaiuo7b8l6vm20eosqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCULeBSTDX5FnbdJ3Bz6ZK3Fzpt3aNk4YM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097794614873-gqo9s0frsr6pelaiuo7b8l6vm20eosqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

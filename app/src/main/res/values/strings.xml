@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Blood Locator</string>
+    <string name="title_activity_donor_map">Map</string>
+</resources>
